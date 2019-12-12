@@ -1,0 +1,15 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
